@@ -1,17 +1,50 @@
-# React + Vite
+# ⚛️ React Learning Journey
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my React learning repository! This project serves as a sandbox for exploring, learning, and building with React.js using Vite.
 
-Currently, two official plugins are available:
+## 🚀 Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To get a local copy up and running, follow these simple steps.
 
-## React Compiler
+### Prerequisites
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+You need to have Node.js and npm installed on your machine.
+- npm
+  ```sh
+  npm install npm@latest -g
+  ```
 
-## Expanding the ESLint configuration
+### Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# react-learning
+1. Clone the repository
+   ```sh
+   git clone https://github.com/HASHMATCS/react-learning.git
+   ```
+2. Navigate to the project directory
+   ```sh
+   cd First_project
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+
+## 🛠️ Built With
+
+* [React](https://reactjs.org/)
+* [Vite](https://vitejs.dev/)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## 💻 Running Locally
+
+To start the development server with Hot Module Replacement (HMR):
+
+```sh
+npm run dev
+```
+
+Your app will be running at `http://localhost:5173/` (or another port if 5173 is in use).
+
+## 📚 What's Inside?
+
+This repository contains various components, hooks, and React concepts I'm currently learning and experimenting with. Feel free to explore the `src/` directory!
