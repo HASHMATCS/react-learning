@@ -1,0 +1,13 @@
+.pass {
+background-color:green;
+color: white;
+font-size: medium;
+font-family: 'Courier New', Courier, monospace;
+}
+
+
+.fail{
+  background-color: red;
+  color: burlywood;
+  
+}
